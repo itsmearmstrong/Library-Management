@@ -1,6 +1,3 @@
-//armyferns - 23hL9yFgW038hpAG
-// mongodb+srv://armyferns:23hL9yFgW038hpAG@library.q4pwopm.mongodb.net/
-
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
